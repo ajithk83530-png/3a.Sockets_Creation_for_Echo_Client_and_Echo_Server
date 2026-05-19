@@ -11,9 +11,13 @@ Sockets Links.
 4. Send and receive the message using the send function in socket.
 ```
 ## PROGRAM
+```
 client:
+```
 <img width="460" height="202" alt="image" src="https://github.com/user-attachments/assets/1fb8b9f7-74c8-4acf-ae82-de7a2975d5c2" />
+```
 server:
+```
 <img width="406" height="215" alt="image" src="https://github.com/user-attachments/assets/c78f7d49-0687-47a2-acc7-afe170caef05" />
 
 ## OUPUT
