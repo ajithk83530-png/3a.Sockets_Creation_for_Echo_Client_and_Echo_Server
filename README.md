@@ -15,6 +15,7 @@ Sockets Links.
 client:
 ```
 <img width="460" height="202" alt="image" src="https://github.com/user-attachments/assets/1fb8b9f7-74c8-4acf-ae82-de7a2975d5c2" />
+
 ```
 server:
 ```
